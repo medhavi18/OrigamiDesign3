@@ -1,0 +1,52 @@
+h1{
+    color: bisque;
+    font-family : Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 60px;
+    border :solid;
+    background-color: rgb(55, 77, 124);
+    padding: 5px;
+}
+   
+body{
+    background-color: bisque;
+}
+
+.grid{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    margin: 10px;
+}
+
+.item{
+    border: solid ;
+    border-width: 1px;
+    margin: 6px;
+}
+
+p{
+    color: rgb(55, 77, 124);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+}
+
+ul{
+    font-size: 12px;
+}
+
+h3{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 25px;
+    margin-top: -30px;
+    color: rgb(55, 77, 124);
+    border: solid;
+    padding: 10px;
+}
+
+img{
+    border: solid darkslateblue;
+    border-width: 2px;
+}
+
+
